@@ -1,0 +1,15 @@
+C:\Users\thiag\Desktop\abstraindo_RPG_dotnet\bin\Debug\net6.0\abstraindo_RPG_dotnet.exe
+C:\Users\thiag\Desktop\abstraindo_RPG_dotnet\bin\Debug\net6.0\abstraindo_RPG_dotnet.deps.json
+C:\Users\thiag\Desktop\abstraindo_RPG_dotnet\bin\Debug\net6.0\abstraindo_RPG_dotnet.runtimeconfig.json
+C:\Users\thiag\Desktop\abstraindo_RPG_dotnet\bin\Debug\net6.0\abstraindo_RPG_dotnet.dll
+C:\Users\thiag\Desktop\abstraindo_RPG_dotnet\bin\Debug\net6.0\abstraindo_RPG_dotnet.pdb
+C:\Users\thiag\Desktop\abstraindo_RPG_dotnet\obj\Debug\net6.0\abstraindo_RPG_dotnet.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\abstraindo_RPG_dotnet\obj\Debug\net6.0\abstraindo_RPG_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\abstraindo_RPG_dotnet\obj\Debug\net6.0\abstraindo_RPG_dotnet.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\abstraindo_RPG_dotnet\obj\Debug\net6.0\abstraindo_RPG_dotnet.AssemblyInfo.cs
+C:\Users\thiag\Desktop\abstraindo_RPG_dotnet\obj\Debug\net6.0\abstraindo_RPG_dotnet.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\abstraindo_RPG_dotnet\obj\Debug\net6.0\abstraindo_RPG_dotnet.dll
+C:\Users\thiag\Desktop\abstraindo_RPG_dotnet\obj\Debug\net6.0\refint\abstraindo_RPG_dotnet.dll
+C:\Users\thiag\Desktop\abstraindo_RPG_dotnet\obj\Debug\net6.0\abstraindo_RPG_dotnet.pdb
+C:\Users\thiag\Desktop\abstraindo_RPG_dotnet\obj\Debug\net6.0\abstraindo_RPG_dotnet.genruntimeconfig.cache
+C:\Users\thiag\Desktop\abstraindo_RPG_dotnet\obj\Debug\net6.0\ref\abstraindo_RPG_dotnet.dll

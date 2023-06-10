@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "abstraindo_RPG_dotnet/1.0.0": {
+        "runtime": {
+          "abstraindo_RPG_dotnet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "abstraindo_RPG_dotnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
